@@ -1,0 +1,16 @@
+package com.example.ktra_java4_30th3.repository;
+
+import com.example.ktra_java4_30th3.model.NhanVien;
+import com.example.ktra_java4_30th3.utils.HibernateUtil;
+import org.hibernate.Session;
+import org.hibernate.query.Query;
+
+import java.util.List;
+public class NhanVienRepo {
+    private Session hSession = HibernateUtil.getFACTORY().openSession();
+    public List<NhanVien> findALl(){
+        String hql = "SELECT entity FROM NhanVien entity";
+        Query q = hSession.createQuery(hql);
+        return q.getResultList();
+    }
+}

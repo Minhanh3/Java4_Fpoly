@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+D:\JAVA_4\jv4_wordspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3775132675.index
+\lesson-1\src\main\java
+D:\JAVA_4\jv4_wordspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\316821569.index
+\lesson_2_input\src\main\java
+D:\JAVA_4\jv4_wordspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2428372933.index
+\lesson-3_calculator\src\main\java
+D:\JAVA_4\jv4_wordspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2480164616.index
+\lesson-1\src\main\java
+D:\JAVA_4\jv4_wordspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\581864258.index
+\lesson-2_inputname\src\main\java

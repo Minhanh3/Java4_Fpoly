@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:lesson-3_calculator" serverId="apache-tomcat-10.1.15 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:lesson_2_input" serverId="apache-tomcat-10.1.15 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:lesson-2_inputname" serverId="apache-tomcat-10.1.15 at localhost"/>
+</modules>
